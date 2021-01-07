@@ -27,3 +27,4 @@
 [2021-01-07 09:43:13.863] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
 [2021-01-07 09:43:13.863] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
 [2021-01-07 11:37:54.532] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 327
+[2021-01-07 13:17:10.710] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 327
