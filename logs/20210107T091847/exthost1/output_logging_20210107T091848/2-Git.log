@@ -1742,3 +1742,58 @@ Use '--' to separate paths from revisions, like this:
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/root/frontend/Dockerfile
+> git symbolic-ref --short HEAD
+> git cat-file -s 3207c600dceb62b32dfab09242fd25ff6bd5c31e
+> git rev-parse feature
+> git rev-parse --symbolic-full-name feature@{u}
+> git show --textconv :Dockerfile
+fatal: no upstream configured for branch 'feature'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature
+> git rev-parse --symbolic-full-name feature@{u}
+fatal: no upstream configured for branch 'feature'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/root/frontend/src/App.js
+> git cat-file -s 9c701d5647643494d89bcec7023078fdbd555f50
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature
+> git rev-parse --symbolic-full-name feature@{u}
+fatal: no upstream configured for branch 'feature'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature
+> git rev-parse --symbolic-full-name feature@{u}
+fatal: no upstream configured for branch 'feature'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature
+> git rev-parse --symbolic-full-name feature@{u}
+fatal: no upstream configured for branch 'feature'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature
+> git rev-parse --symbolic-full-name feature@{u}
+fatal: no upstream configured for branch 'feature'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
